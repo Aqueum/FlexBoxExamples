@@ -17,11 +17,12 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: 'row',
-    justifyContent: 'space-around',
-    alignItems: 'stretch'
+    justifyContent: 'center',
+    alignItems: 'center'
   },
   box: {
     width: 50,
+    height: 50,
     backgroundColor: '#ef6e63',
     margin: 10
   }
